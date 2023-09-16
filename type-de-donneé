@@ -1,0 +1,20 @@
+<?php
+
+   /*  $entier = 42;
+    $flottant = 3.14;
+    $chaine = "Hello, world:";
+    $tableau = [1, 2, 3];
+    $booleen = true; */
+    //Echo permet d'afficher une value de sortir dans la console
+  /*   echo "voi ci un exemple d'entier: $entier \n";
+    echo "voi ci un exemple flottant: $flottant \n";
+    echo "voi ci un exemple chaine: $chaine \n";
+    echo "voi ci un exemple booleen: $booleen \n"; */
+    
+
+//tableau
+$moyenneDeClasse = ["Jean","atta","anselme","bondoukou","zanzan", "77596686", "ingenieur", "logiciel",42];
+echo "je suis $moyenneDeClasse[1] $moyenneDeClasse[0] $moyenneDeClasse[2], je reside a $moyenneDeClasse[3]
+ precisement au $moyenneDeClasse[4], je suis $moyenneDeClasse[6] et je suis un jeune de $moyenneDeClasse[8] ans 
+ et voici mon numero $moyenneDeClasse[5]";
+
